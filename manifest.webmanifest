@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "Không Nghề Thì Nghiệp",
+  "short_name": "Không Nghề",
+  "description": "Cờ tỉ phú nghề nghiệp — vừa chơi vừa học luật lao động.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fff3d6",
+  "theme_color": "#fff3d6",
+  "categories": ["games", "education"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
